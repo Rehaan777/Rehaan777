@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rehaan777
 - 👀 I’m interested in Music,Hacking and Studying
-- 🌱 I’m currently learning ONLINE CLASSES LOL
+- 🌱 I’m currently learning Kali Linux
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me GUITARBOYGAMER ON YOUTUBE
 
