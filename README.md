@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rehaan777
-- 👀 I’m interested in Music,Hacking and Studying
-- 🌱 I’m currently learning Kali Linux
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me GUITARBOYGAMER ON YOUTUBE
+- 👋 Hi, I’m @GOffSec
+- 👀 I’m interested in Music,Ethical Hacking and Studying
+- 🌱 I’m currently learning Kali Linux,JS
+- 💞️ I’m looking to collaborate on Bug Bounty
+- 📫 How to reach me - Earth
 
 <!---
 Rehaan777/Rehaan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
